@@ -1,0 +1,1 @@
+This file contains a student year one registered courses, course code, Units, Continue Assessement (40) and Examination score (60) which were used to find the Total, Grade(A-F), Grade Index(5-0), Remark(PASS & FAIL), GPA(sum(Grade Index(5-0)/sum(Unit))), AND Class of degree(Fisrt-Pass).  
